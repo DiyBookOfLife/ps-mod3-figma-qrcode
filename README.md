@@ -28,7 +28,7 @@ In the future, I will use this project to to practice integrating either bootstr
 - Frontend Mentor - [DiyBookOfLife](https://www.frontendmentor.io/profile/DiyBookOfLife)
 - LinkedIn - [Toni Thomas](https://www.linkedin.com/in/tonithomas2025/)
 
-## Reflection-questions
+## Reflection questions
 **1. How did using Figma designs as references affect your coding process?** 
 
 - Using figma designs as a refence really helped with the coding process; it provided precise details about the styles instead of guessing based on appearance. 
