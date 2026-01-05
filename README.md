@@ -1,10 +1,11 @@
 # Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). In this project, I practiced translating a figma design to HTML & CSS.
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). In this project, I practiced translating a figma design to HTML & CSS. Check out my solution by [clicking here](https://ps-mod3-figma-qrcode.vercel.app/)!
 
 ## Table of contents
 
 - [Screenshot](#screenshot)
+- [Live link](#link)
 - [What I learned](#what-i-learned)
 - [Continued development](#continued-development)
 - [Author](#author)
@@ -13,6 +14,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 ![](./images/qr-screenshot.png)
+
+### Live Link
+[QR-Code Live Link](https://ps-mod3-figma-qrcode.vercel.app/)
 
 ### What I learned
 
